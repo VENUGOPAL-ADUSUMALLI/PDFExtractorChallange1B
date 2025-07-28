@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "processing_time_seconds": 0.0
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 1",
+      "importance_rank": 1,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 2",
+      "importance_rank": 2,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 3",
+      "importance_rank": 3,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    },
+    {
+      "document": "South of France - History.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 4",
+      "importance_rank": 4,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 5",
+      "importance_rank": 5,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 6",
+      "importance_rank": 6,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "section_title": "Dummy Section 7",
+      "importance_rank": 7,
+      "content_length": 1234,
+      "section_type": "general",
+      "relevance_score": 75.0
+    }
+  ],
+  "subsection_analysis": []
+}

@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor with expertise in planning and coordination.",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T09:15:07.655252",
+    "processing_time_seconds": 186.11,
+    "total_sections_analyzed": 582,
+    "top_sections_selected": 20,
+    "challenge_id": "round_1b_001",
+    "test_case_name": "menu_planning",
+    "challenge_description": "Dinner menu planning",
+    "document_titles": {
+      "Breakfast Ideas.pdf": "Breakfast Ideas",
+      "Dinner Ideas - Mains_1.pdf": "Dinner Ideas - Mains_1",
+      "Dinner Ideas - Mains_2.pdf": "Dinner Ideas - Mains_2",
+      "Dinner Ideas - Mains_3.pdf": "Dinner Ideas - Mains_3",
+      "Dinner Ideas - Sides_1.pdf": "Dinner Ideas - Sides_1",
+      "Dinner Ideas - Sides_2.pdf": "Dinner Ideas - Sides_2",
+      "Dinner Ideas - Sides_3.pdf": "Dinner Ideas - Sides_3",
+      "Dinner Ideas - Sides_4.pdf": "Dinner Ideas - Sides_4",
+      "Lunch Ideas.pdf": "Lunch Ideas"
+    },
+    "persona_role": "Food Contractor",
+    "original_task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "relevance_score": 22.02,
+      "content_preview": "Instructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a skillet, cook ground beef, diced onion, and minced garlic until browned. \n• \nStir in marinara sauce and simmer for 10 minutes. \n• \nIn a bowl, ...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 9,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 2,
+      "relevance_score": 21.62,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper \nuntil tender. Add spinach ...",
+      "document_title": "Dinner Ideas - Mains_3"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 6,
+      "section_title": "Chopped parsley for garnish \nInstructions:",
+      "importance_rank": 3,
+      "relevance_score": 19.99,
+      "content_preview": "Chopped parsley for garnish \nInstructions: \n• \nCook fettuccine according to package instructions. \n• \nIn a skillet, melt butter over medium heat. \n• \nAdd minced garlic and sauté until fragrant. \n• \nAd...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 10,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 4,
+      "relevance_score": 19.29,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nPreheat oven to 350°F (175°C). \n• \nIn a large pot, melt butter over medium heat. \n• \nCook chopped bacon until crispy, then set aside. \n• \nIn the same pot, c...",
+      "document_title": "Dinner Ideas - Mains_2"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 9,
+      "section_title": "Chopped cilantro for garnish \nInstructions:",
+      "importance_rank": 5,
+      "relevance_score": 19.09,
+      "content_preview": "Chopped cilantro for garnish \nInstructions: \n• \nIn a bowl, mix yogurt, lemon juice, minced garlic, grated ginger, cumin, coriander, \nturmeric, paprika, and garam masala. \n• \nMarinate chicken cubes in ...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 3,
+      "section_title": "Grated Parmesan cheese for garnish \nInstructions:",
+      "importance_rank": 6,
+      "relevance_score": 18.51,
+      "content_preview": "Grated Parmesan cheese for garnish \nInstructions: \n• \nIn a large skillet, cook ground beef over medium heat until browned. \n• \nAdd diced onion, minced garlic, grated carrot, and diced celery, sauté un...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 7,
+      "section_title": "Chopped parsley for garnish \nInstructions:",
+      "importance_rank": 7,
+      "relevance_score": 18.32,
+      "content_preview": "Chopped parsley for garnish \nInstructions: \n• \nHeat broth in a pot and keep warm. \n• \nIn a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \n• \nSauté onion, garlic, and mushroom...",
+      "document_title": "Dinner Ideas - Mains_3"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "section_title": "Egg noodles or rice for serving \nInstructions:",
+      "importance_rank": 8,
+      "relevance_score": 18.2,
+      "content_preview": "Egg noodles or rice for serving \nInstructions: \n• \nIn a large skillet, melt butter over medium heat. \n• \nAdd diced onion and minced garlic, sauté until translucent. \n• \nAdd sliced beef and cook until ...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 6,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 9,
+      "relevance_score": 18.11,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nPreheat oven to 400°F (200°C). \n• \nIn a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. \n• \nStir in peas and carrots, beef ...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 9,
+      "section_title": "Instructions:",
+      "importance_rank": 10,
+      "relevance_score": 17.78,
+      "content_preview": "Instructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a large skillet, melt butter over medium heat. \n• \nCook diced onion and minced garlic until softened. \n• \nAdd cubed chicken and cook until brown...",
+      "document_title": "Dinner Ideas - Mains_2"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "section_title": "Sliced green onions for garnish \nInstructions:",
+      "importance_rank": 11,
+      "relevance_score": 17.72,
+      "content_preview": "Sliced green onions for garnish \nInstructions: \n• \nPreheat oven to 300°F (150°C). \n• \nSeason ribs with salt, pepper, and paprika, then place in a baking dish. \n• \nIn a bowl, mix honey, soy sauce, rice...",
+      "document_title": "Dinner Ideas - Mains_3"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 12,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 12,
+      "relevance_score": 17.67,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nIn a large pot, heat olive oil over medium heat. \n• \nCook cubed chicken and sliced sausage until browned, then set aside. \n• \nIn the same pot, sauté diced o...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "section_title": "Cooked pasta for serving \nInstructions:",
+      "importance_rank": 13,
+      "relevance_score": 17.58,
+      "content_preview": "Cooked pasta for serving \nInstructions: \n• \nHeat olive oil and butter in a large skillet over medium heat. \n• \nAdd minced garlic and sauté until fragrant. \n• \nAdd shrimp and cook until pink and opaque...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "section_title": "Chopped parsley for garnish \nInstructions:",
+      "importance_rank": 14,
+      "relevance_score": 17.54,
+      "content_preview": "Chopped parsley for garnish \nInstructions: \n• \nCook spaghetti according to package instructions. \n• \nIn a skillet, cook diced pancetta until crispy, then set aside. \n• \nIn a bowl, whisk eggs, grated P...",
+      "document_title": "Dinner Ideas - Mains_2"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 11,
+      "section_title": "Sliced green onions for garnish \nInstructions:",
+      "importance_rank": 15,
+      "relevance_score": 17.12,
+      "content_preview": "Sliced green onions for garnish \nInstructions: \n• \nIn a bowl, toss chicken cubes with cornstarch. \n• \nHeat vegetable oil in a skillet over medium heat. \n• \nCook chicken until golden and crispy, then s...",
+      "document_title": "Dinner Ideas - Mains_1"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 16,
+      "relevance_score": 16.74,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nIn a pot, bring water to a boil and stir in grits. \n• \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n• \nIn a sk...",
+      "document_title": "Dinner Ideas - Mains_2"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "section_title": "Instructions:",
+      "importance_rank": 17,
+      "relevance_score": 16.65,
+      "content_preview": "Instructions: \n• \nIn a large pot, bring beef broth to a boil. \n• \nAdd sliced onion, minced garlic, sliced ginger, star anise, and cinnamon stick. \n• \nSimmer for 30 minutes. \n• \nStir in fish sauce and ...",
+      "document_title": "Dinner Ideas - Mains_2"
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 2,
+      "section_title": "Instructions:",
+      "importance_rank": 18,
+      "relevance_score": 16.64,
+      "content_preview": "Instructions: \n• \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n• \nReduce heat and simmer for 20 minutes. \n• \nIn a skillet, cook sliced pork...",
+      "document_title": "Dinner Ideas - Mains_3"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 15,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 19,
+      "relevance_score": 16.49,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nPreheat oven to 350°F (175°C). \n• \nIn a large pot, heat olive oil over medium heat. \n• \nSeason veal shanks with salt and pepper, then brown on all sides. \n•...",
+      "document_title": "Dinner Ideas - Mains_2"
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 11,
+      "section_title": "Salt and pepper to taste \nInstructions:",
+      "importance_rank": 20,
+      "relevance_score": 16.47,
+      "content_preview": "Salt and pepper to taste \nInstructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a skillet, heat vegetable oil over medium heat. \n• \nCook ground beef, diced onion, and minced garlic until browned. \n•...",
+      "document_title": "Dinner Ideas - Mains_2"
+    }
+  ],
+  "subsection_analysis": []
+}

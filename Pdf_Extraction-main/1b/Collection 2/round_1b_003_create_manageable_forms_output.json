@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional with expertise in planning and coordination.",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-26T00:55:53.985954",
+    "processing_time_seconds": 27.87,
+    "total_sections_analyzed": 764,
+    "top_sections_selected": 20,
+    "challenge_id": "round_1b_003",
+    "test_case_name": "create_manageable_forms",
+    "challenge_description": "Creating manageable forms",
+    "document_titles": {
+      "Learn Acrobat - Create and Convert_1.pdf": "Learn Acrobat - Create and Convert_1",
+      "Learn Acrobat - Create and Convert_2.pdf": "Learn Acrobat - Create and Convert_2",
+      "Learn Acrobat - Edit_1.pdf": "Learn Acrobat - Edit_1",
+      "Learn Acrobat - Edit_2.pdf": "Learn Acrobat - Edit_2",
+      "Learn Acrobat - Export_1.pdf": "Learn Acrobat - Export_1",
+      "Learn Acrobat - Export_2.pdf": "Learn Acrobat - Export_2",
+      "Learn Acrobat - Fill and Sign.pdf": "Learn Acrobat - Fill and Sign",
+      "Learn Acrobat - Generative AI_1.pdf": "Learn Acrobat - Generative AI_1",
+      "Learn Acrobat - Generative AI_2.pdf": "Learn Acrobat - Generative AI_2",
+      "Learn Acrobat - Request e-signatures_1.pdf": "Learn Acrobat - Request e-signatures_1",
+      "Learn Acrobat - Request e-signatures_2.pdf": "Learn Acrobat - Request e-signatures_2",
+      "Learn Acrobat - Share_1.pdf": "Learn Acrobat - Share_1",
+      "Learn Acrobat - Share_2.pdf": "Learn Acrobat - Share_2",
+      "Test Your Acrobat Exporting Skills.pdf": "Test Your Acrobat Exporting Skills",
+      "The Ultimate PDF Sharing Checklist.pdf": "The Ultimate PDF Sharing Checklist"
+    },
+    "persona_role": "HR professional",
+    "original_task": "Create and manage fillable forms for onboarding and compliance."
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "millions of users worldwide to create digital signatures that are trusted whenever the signed",
+      "importance_rank": 1,
+      "relevance_score": 31.229999542236328,
+      "content_preview": "millions of users worldwide to create digital signatures that are trusted whenever the signed \ndocument is opened in Acrobat or Reader software. Check out the current members. \nAdobe Security and Priv...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "XML data signatures \nAcrobat and Acrobat Reader support XML data signatures that are used to sign data in XML",
+      "importance_rank": 2,
+      "relevance_score": 27.549999237060547,
+      "content_preview": "XML data signatures \nAcrobat and Acrobat Reader support XML data signatures that are used to sign data in XML \nForms Architectures (XFA) forms. The form author provides XML signing, validating, or \ncl...",
+      "document_title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "section_title": "Customizing signature workflows using seed values \nSeed values offer additional control to document authors by letting them specify which",
+      "importance_rank": 3,
+      "relevance_score": 27.469999313354492,
+      "content_preview": "Customizing signature workflows using seed values \nSeed values offer additional control to document authors by letting them specify which \nchoices signers can make when signing a document. By applying...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 3,
+      "section_title": "Section 1",
+      "importance_rank": 4,
+      "relevance_score": 27.010000228881836,
+      "content_preview": "• \n(Optional) To explore advanced options including signer authentication, reminders, \nand more, click More Options. \n• \nTo add form fields and specify where to sign, click Specify where to sign. \nReq...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "Section 1",
+      "importance_rank": 5,
+      "relevance_score": 26.610000610351562,
+      "content_preview": "Adobe LiveCycle Rights Management \n(ALCRM) servers \nAdobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to \ncontrol access to documents. The policies are stored on the...",
+      "document_title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "section_title": "agreements:",
+      "importance_rank": 6,
+      "relevance_score": 26.479999542236328,
+      "content_preview": "agreements: \n• \nAll - Shows all (child) agreements that have spawned from the Bulk Send (parent \ntemplate). \n• \nIn Progress - Indicates that the child agreement is waiting for the participant to \ncomp...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 24,
+      "section_title": "Signatures made with the Certify or Digitally sign options comply with data protection",
+      "importance_rank": 7,
+      "relevance_score": 26.229999542236328,
+      "content_preview": "Signatures made with the Certify or Digitally sign options comply with data protection \nstandards specified by the European Telecommunications Standards Institute (ETSI). In \naddition, both signature ...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 12,
+      "section_title": "Note:",
+      "importance_rank": 8,
+      "relevance_score": 25.5,
+      "content_preview": "Note:  \nYou can add comments to Japanese, Chinese, and Korean text with the Text Box tool, \nbut you must have the Asian-language resource files installed. Text boxes allow for \nhorizontal text only. \n...",
+      "document_title": "Learn Acrobat - Share_2"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "section_title": "What steps do we take to protect your content when you share it with us as part of",
+      "importance_rank": 9,
+      "relevance_score": 25.15999984741211,
+      "content_preview": "What steps do we take to protect your content when you share it with us as part of \nproviding feedback? \n• \nWhen you share your documents, textual prompts, and the generated responses with \nus when pr...",
+      "document_title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "4. Expand Digital IDs on the left, select Roaming ID Accounts, and select Add",
+      "importance_rank": 10,
+      "relevance_score": 24.969999313354492,
+      "content_preview": "4. Expand Digital IDs on the left, select Roaming ID Accounts, and select Add \nAccount. \n5. Type the name and URL for the roaming ID server, and select Next. \n6. Type your user name and password, or f...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 15,
+      "section_title": "Note:",
+      "importance_rank": 11,
+      "relevance_score": 24.790000915527344,
+      "content_preview": "Note:  \nYou can also capture a picture of your signature on mobile using Adobe Acrobat Reader mobile \napp and save it in Adobe cloud storage so that it's synced and available for use across your \ndesk...",
+      "document_title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 4,
+      "section_title": "Content usage and handling practices",
+      "importance_rank": 12,
+      "relevance_score": 24.68000030517578,
+      "content_preview": "Content usage and handling practices \nThis FAQ addresses Adobe’s content usage and handling practices specific to improving \ngenerative AI capabilities in Adobe Acrobat and Adobe Acrobat Reader. For p...",
+      "document_title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 6,
+      "section_title": "Section 1",
+      "importance_rank": 13,
+      "relevance_score": 23.93000030517578,
+      "content_preview": "commercial printing requires diﬀerent settings than a PDF intended only for onscreen viewing \nand quick downloading over the Internet. \nOnce selected, these settings apply across PDFMaker, Acrobat, an...",
+      "document_title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "Store certificates on directory servers \nDirectory servers are commonly used as centralized repositories of identities within an",
+      "importance_rank": 14,
+      "relevance_score": 23.649999618530273,
+      "content_preview": "Store certificates on directory servers \nDirectory servers are commonly used as centralized repositories of identities within an \norganization. The server acts as an ideal location to store user certi...",
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "Create multiple PDFs from multiple files",
+      "importance_rank": 15,
+      "relevance_score": 23.329999923706055,
+      "content_preview": "Create multiple PDFs from multiple files  \nYou can create multiple PDFs from multiple native files, including files of different supported \nformats, in one operation. This method is useful when you mu...",
+      "document_title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "section_title": "Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through",
+      "importance_rank": 16,
+      "relevance_score": 22.90999984741211,
+      "content_preview": "Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through \n lengthy, complex PDF content and get answers or generate a summary. \nNote: The generative AI features in Acrobat ...",
+      "document_title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 15,
+      "section_title": "Section 1",
+      "importance_rank": 17,
+      "relevance_score": 22.739999771118164,
+      "content_preview": "Review the status of your request \nWhen you submit a request, it can be approved or denied, or the review can be pending. \n• \nApproved requests: If your request is automatically or manually approved, ...",
+      "document_title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "View signed and certified PDF Portfolios",
+      "importance_rank": 18,
+      "relevance_score": 22.329999923706055,
+      "content_preview": "View signed and certified PDF Portfolios \nA properly signed or certified PDF Portfolio has one or more signatures that approve or certify \nthe PDF Portfolio. The most significant signature appears in ...",
+      "document_title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "3. In the Comments And Forms menu, choose one of the following, and then select OK:",
+      "importance_rank": 19,
+      "relevance_score": 22.139999389648438,
+      "content_preview": "3. In the Comments And Forms menu, choose one of the following, and then select OK: \n  \n• \n(Interactive or flat form) To print the form and the typed entries, \nchoose Document. This option prints text...",
+      "document_title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 7,
+      "section_title": "6. To move the text box, place the pointer over the line of the bounding box (avoid the",
+      "importance_rank": 20,
+      "relevance_score": 21.889999389648438,
+      "content_preview": "6. To move the text box, place the pointer over the line of the bounding box (avoid the \nselection handles). When the cursor changes to Move pointer \n, drag the box to the \nnew location. To maintain a...",
+      "document_title": "Learn Acrobat - Edit_1"
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 24,
+      "refined_text": "The timestamp capability and native support for long-term validation of signatures (introduced in Acrobat 9.1) is in compliance with Part 4 of the PAdES standard.",
+      "relevance_score": 47.6,
+      "original_content_length": 326,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 12,
+      "refined_text": "The text box moves around a stationary anchor point—the arrow on the end-point line—created when you first click in the PDF. You can modify the color and appearance of the text box and add arrows or leaders to the end-point line.",
+      "relevance_score": 45.2,
+      "original_content_length": 302,
+      "document_title": "Learn Acrobat - Share_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "refined_text": "Create the appearance of a certificate-based signature You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph.",
+      "relevance_score": 44.4,
+      "original_content_length": 294,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "refined_text": "XML data signatures Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit.",
+      "relevance_score": 43.0,
+      "original_content_length": 280,
+      "document_title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "refined_text": "millions of users worldwide to create digital signatures that are trusted whenever the signed document is opened in Acrobat or Reader software.",
+      "relevance_score": 42.5,
+      "original_content_length": 275,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "refined_text": "You can also create different signatures for different purposes. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more.",
+      "relevance_score": 41.5,
+      "original_content_length": 265,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 12,
+      "refined_text": "Note: You can add comments to Japanese, Chinese, and Korean text with the Text Box tool, but you must have the Asian-language resource files installed. You can use the Text callout tool to create a callout text box.",
+      "relevance_score": 41.2,
+      "original_content_length": 262,
+      "document_title": "Learn Acrobat - Share_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "refined_text": "Managing Digital IDs: Help pages for digital ID management.",
+      "relevance_score": 40.4,
+      "original_content_length": 254,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "refined_text": "What steps do we take to protect your content when you share it with us as part of providing feedback? • When you share your documents, textual prompts, and the generated responses with us when providing feedback, we take steps to filter out personal information by applying data masking procedures to this content (i.e., replacing personal information with predefined categories using Named Entity Recognition, e.g., replacing “John Smith” with “PERSON”) prior to using the content for product improvement.",
+      "relevance_score": 40,
+      "original_content_length": 513,
+      "document_title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "refined_text": "Acrobat lets you create your certificate ID. However, the common approach is to work with a certificate ID from a trusted third-party certificate authority.",
+      "relevance_score": 39.2,
+      "original_content_length": 242,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "refined_text": "Type your user name and password, or follow the directions to create an account.",
+      "relevance_score": 39.0,
+      "original_content_length": 240,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "refined_text": "If I’m signed into my adobe account, does acrobat’s generative ai features automatically start processing my documents when I launch the application, or open a file in the application? Acrobat’s generative AI features, like AI Assistant, do not start automatically processing any of your documents upon application launch or upon opening a file into the application.",
+      "relevance_score": 37.3,
+      "original_content_length": 373,
+      "document_title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "refined_text": "Adobe LiveCycle Rights Management (ALCRM) servers Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to control access to documents.",
+      "relevance_score": 36.4,
+      "original_content_length": 214,
+      "document_title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "refined_text": "• Waiting for You - Indicates that the agreement is waiting for the sender to countersign the agreement. • Activity for the Bulk Send parent template (orange square) - The Activity > link at the bottom of the context panel opens a chronological list of the enablement actions taken against the (parent) Bulk Send template (eg: Creation, Completed events).",
+      "relevance_score": 36.0,
+      "original_content_length": 360,
+      "document_title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "refined_text": "• Content is stored for 30 days in an encrypted, siloed, Adobe-controlled environment with strict access controls. You can always contact us via the form in our Privacy Policy if you want us to delete this data sooner, or if you want to opt out of the use of your content to improve generative AI capabilities in Acrobat and Acrobat Reader.",
+      "relevance_score": 34.4,
+      "original_content_length": 344,
+      "document_title": "Learn Acrobat - Generative AI_1"
+    }
+  ]
+}
